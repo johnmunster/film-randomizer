@@ -1,0 +1,609 @@
+{
+"films": [
+    {
+        "posterImg": "./images/Star-Wars-Phantom-Menace-Poster",
+        "filmTitle": "Star Wars: Episode I - The Phantom Menace",
+        "releaseDate": 1999,
+        "Director": "George Lucas",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "certificate": "U",
+        "runTime": "2h 16min"
+    },
+    {
+        "filmTitle": "Star Wars: Episode II - Attack of the Clones",
+        "releaseDate": 2005,
+        "Director": "George Lucas",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "certificate": "PG",
+        "runTime": "2h 22min"
+    },        
+    {
+        "filmTitle": "Star Wars: Episode III - Revenge of the Sith",
+        "releaseDate": 2005,
+        "Director": "George Lucas",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "certificate": "12A",
+        "runTime": "2h 20min"
+    },
+    {
+        "filmTitle": "Rogue One: A Star Wars Story",
+        "releaseDate": 2016,
+        "Director": "Gareth Edwards",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "certificate": "12A",
+        "runTime": "2h 13min"
+    },
+    {
+        "filmTitle": "Star Wars: Episode IV - A New Hope",
+        "releaseDate": 1977,
+        "Director": "George Lucas",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "certificate": "U",
+        "runTime": "2h 1min"
+    },
+    {
+        "filmTitle": "Star Wars: Episode V - The Empire Strikes Back",
+        "releaseDate": 1980,
+        "Director": "Irvin Kershner",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "certificate": "U",
+        "runTime": "2h 4min"
+    },
+    {
+        "filmTitle": "Star Wars: Episode VI - Return of the Jedi",
+        "releaseDate": 1983,
+        "Director": "Richard Marquand",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "certificate": "U",
+        "runTime": "2h 11min"
+    },
+    {
+        "filmTitle": "Star Wars: Episode VII - The Force Awakens",
+        "releaseDate": 2015,
+        "Director": "J.J. Abrams",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "certificate": "12A",
+        "runTime": "2h 18min"
+    },
+    {
+        "filmTitle": "Star Wars: Episode VIII - The Last Jedi",
+        "releaseDate": 2007,
+        "Director": "Rian Johnson",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "certificate": "12A",
+        "runTime": "2h 32min"
+    },
+    {
+        "filmTitle": "Star Wars: The Rise of Skywalker",
+        "releaseDate": 2019,
+        "Director": "J.J. Abrams",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "certificate": "12A",
+        "runTime": "2h 22min"
+    },
+    {
+        "filmTitle": "2001: A Space Odyssey",
+        "releaseDate": 1968,
+        "Director": "Stanley Kubrick",
+        "Genre": [
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "certificate": "U",
+        "runTime": "2h 29min"
+    },
+    {
+        "filmTitle": "Akira",
+        "releaseDate": 1988,
+        "Director": "Katsuhiro Ôtomo",
+        "Genre": [
+            "Animation",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "certificate": "12",
+        "runTime": "2h 4min"
+    },
+    {
+        "filmTitle": "Alice in Wonderland",
+        "releaseDate": 2010,
+        "Director": "Tim Burton",
+        "Genre": [
+            "Adventure",
+            "Family",
+            "Fantasy"
+        ],
+        "certificate": "PG",
+        "runTime": "1h 48min"
+    },
+    {
+        "filmTitle": "Alien",
+        "releaseDate": 1979,
+        "Director": "Ridley Scott",
+        "Genre": [
+            "Horror",
+            "Sci-Fi"
+        ],
+        "certificate": "18",
+        "runTime": "1h 57min"
+    },
+    {
+        "filmTitle": "Alien Covenant",
+        "releaseDate": 2017,
+        "Director": "Ridley Scott",
+        "Genre": [
+            "Horror",
+            "Sci-Fi",
+            "Thirller"
+        ],
+        "certificate": "15",
+        "runTime": "2h 2min"
+    },
+    {
+        "filmTitle": "Alien: Resurrection",
+        "releaseDate": 1997,
+        "Director": "Jean-Pierre Jeunet",
+        "Genre": [
+            "Horror",
+            "Sci-Fi",
+            "Action"
+        ],
+        "certificate": "18",
+        "runTime": "1h 49min"
+    },
+    {
+        "filmTitle": "Aliens",
+        "releaseDate": 1986,
+        "Director": "James Cameron",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "certificate": "15",
+        "runTime": "2h 17min"
+    },
+    {
+        "filmTitle": "Alien³",
+        "releaseDate": 1992,
+        "Director": "David Fincher",
+        "Genre": [
+            "Action",
+            "Horror",
+            "Sci-Fi"
+        ],
+        "certificate": "18",
+        "runTime": "1h 54min"
+    },
+    {
+        "filmTitle": "The Amazing Spider-Man",
+        "releaseDate": 2012,
+        "Director": "Marc Webb",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "certificate": "12A",
+        "runTime": "2h 16min"
+    },
+    {
+        "filmTitle": "The Amazing Spider-Man",
+        "releaseDate": 2012,
+        "Director": "Marc Webb",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "certificate": "12A",
+        "runTime": "2h 16min"
+    },
+    {
+        "filmTitle": "The Amazing Spider-Man 2",
+        "releaseDate": 2014,
+        "Director": "Marc Webb",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "certificate": "12A",
+        "runTime": "2h 22min"
+    },
+    {
+        "filmTitle": "American Psycho",
+        "releaseDate": 2000,
+        "Director": "Mary Harron",
+        "Genre": [
+            "Comedy",
+            "Crime",
+            "Drama"
+        ],
+        "certificate": "18",
+        "runTime": "1h 41min"
+    },
+    {
+        "filmTitle": "American Psycho",
+        "releaseDate": 2000,
+        "Director": "Mary Harron",
+        "Genre": [
+            "Comedy",
+            "Crime",
+            "Drama"
+        ],
+        "certificate": "18",
+        "runTime": "1h 41min"
+    },
+    {
+        "filmTitle": "American Sniper",
+        "releaseDate": 2014,
+        "Director": "Clint Eastwood",
+        "Genre": [
+            "Action",
+            "Biography",
+            "Drama"
+        ],
+        "certificate": "15",
+        "runTime": "2h 13min"
+    },
+    {
+        "filmTitle": "Ant Man",
+        "releaseDate": 2015,
+        "Director": "Peyton Reed",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "certificate": "12A",
+        "runTime": "1h 57min"
+    },
+    {
+        "filmTitle": "Ant Man and the Wasp",
+        "releaseDate": 2018,
+        "Director": "Peyton Reed",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "certificate": "12A",
+        "runTime": "1h 58min"
+    },
+    {
+        "filmTitle": "Apocalypse Now",
+        "releaseDate": 1979,
+        "Director": "Francis Ford Coppola",
+        "Genre": [
+            "Drama",
+            "Mystery",
+            "War"
+        ],
+        "certificate": "18",
+        "runTime": "2h 27min"
+    },
+    {
+        "filmTitle": "Arrival",
+        "releaseDate": 2016,
+        "Director": "Denis Villeneuve",
+        "Genre": [
+            "Drama",
+            "Mystery",
+            "Sci-Fi"
+        ],
+        "certificate": "12A",
+        "runTime": "1h 56min"
+    },
+    {
+        "filmTitle": "Assassin's Creed",
+        "releaseDate": 2016,
+        "Director": "Justin Kurzel",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "certificate": "12A",
+        "runTime": "1h 55min"
+    },
+    {
+        "filmTitle": "Atomic Blonde",
+        "releaseDate": 2017,
+        "Director": "David Leitch",
+        "Genre": [
+            "Action",
+            "Thriller"
+        ],
+        "certificate": "15",
+        "runTime": "1h 55min"
+    },
+    {
+        "filmTitle": "Austin Powers: International Man of Mystery",
+        "releaseDate": 1997,
+        "Director": "Jay Roach",
+        "Genre": [
+            "Adventure",
+            "Comedy"
+        ],
+        "certificate": "15",
+        "runTime": "1h 34min"
+    },
+    {
+        "filmTitle": "Austin Powers: The Spy Who Shagged Me",
+        "releaseDate": 1999,
+        "Director": "Jay Roach",
+        "Genre": [
+            "Adventure",
+            "Action",
+            "Comedy"
+        ],
+        "certificate": "12",
+        "runTime": "1h 35min"
+    },
+    {
+        "filmTitle": "Avatar",
+        "releaseDate": 2009,
+        "Director": "James Cameron",
+        "Genre": [
+            "Adventure",
+            "Action",
+            "Fantasy"
+        ],
+        "certificate": "12A",
+        "runTime": "2h 42min"
+    },
+    {
+        "filmTitle": "Avengers Assemble",
+        "releaseDate": 2012,
+        "Director": "Joss Whedon",
+        "Genre": [
+            "Adventure",
+            "Action",
+            "Sci-Fi"
+        ],
+        "certificate": "12A",
+        "runTime": "2h 23min"
+    },
+    {
+        "filmTitle": "Avengers: Age of Ultron",
+        "releaseDate": 2015,
+        "Director": "Joss Whedon",
+        "Genre": [
+            "Adventure",
+            "Action",
+            "Sci-Fi"
+        ],
+        "certificate": "12A",
+        "runTime": "2h 21min"
+    },
+    {
+        "filmTitle": "Avengers: Infinity War",
+        "releaseDate": 2018,
+        "Director": "Anthony Russo, Joe Russo",
+        "Genre": [
+            "Adventure",
+            "Action",
+            "Sci-Fi"
+        ],
+        "certificate": "12A",
+        "runTime": "2h 29min"
+    },
+    {
+        "filmTitle": "Avengers: Endgame",
+        "releaseDate": 2019,
+        "Director": "Anthony Russo, Joe Russo",
+        "Genre": [
+            "Adventure",
+            "Action",
+            "Drama"
+        ],
+        "certificate": "12A",
+        "runTime": "3h 1min"
+    },
+    {
+        "filmTitle": "AVP: Alien vs. Predator",
+        "releaseDate": 2004,
+        "Director": "Paul W.S. Anderson",
+        "Genre": [
+            "Adventure",
+            "Action",
+            "Horror"
+        ],
+        "certificate": "15",
+        "runTime": "1h 41min"
+    },
+    {
+        "filmTitle": "Back to the Future",
+        "releaseDate": 1985,
+        "Director": "Robert Zemeckis",
+        "Genre": [
+            "Adventure",
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "certificate": "PG",
+        "runTime": "1h 56min"
+    },
+    {
+        "filmTitle": "Back to the Future Part II",
+        "releaseDate": 1989,
+        "Director": "Robert Zemeckis",
+        "Genre": [
+            "Adventure",
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "certificate": "PG",
+        "runTime": "1h 48min"
+    },
+    {
+        "filmTitle": "Back to the Future Part III",
+        "releaseDate": 1990,
+        "Director": "Robert Zemeckis",
+        "Genre": [
+            "Adventure",
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "certificate": "PG",
+        "runTime": "1h 58min"
+    },
+    {
+        "filmTitle": "Bad Boys",
+        "releaseDate": 1995,
+        "Director": "Michael Bay",
+        "Genre": [
+            "Adventure",
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "certificate": "18",
+        "runTime": "1h 59min"
+    },
+    {
+        "filmTitle": "Bad Boys II",
+        "releaseDate": 2003,
+        "Director": "Michael Bay",
+        "Genre": [
+            "Adventure",
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "certificate": "15",
+        "runTime": "2h 27min"
+    },
+    {
+        "filmTitle": "Batman",
+        "releaseDate": 1989,
+        "Director": "Tim Burton",
+        "Genre": [
+            "Adventure",
+            "Action"
+        ],
+        "certificate": "12",
+        "runTime": "2h 6min"
+    },
+    {
+        "filmTitle": "Batman Begins",
+        "releaseDate": 2005,
+        "Director": "Christopher Nolan",
+        "Genre": [
+            "Adventure",
+            "Action"
+        ],
+        "certificate": "12A",
+        "runTime": "2h 20min"
+    },
+    {
+        "filmTitle": "Batman Returns",
+        "releaseDate": 1992,
+        "Director": "Tim Burton",
+        "Genre": [
+            "Crime",
+            "Action",
+            "Fantasy"
+        ],
+        "certificate": "15",
+        "runTime": "2h 6min"
+    },
+    {
+        "filmTitle": "Beetlejuice",
+        "releaseDate": 1988,
+        "Director": "Tim Burton",
+        "Genre": [
+            "Comedy",
+            "Fantasy"
+        ],
+        "certificate": "15",
+        "runTime": "1h 32min"
+    },
+    {
+        "filmTitle": "Beetlejuice",
+        "releaseDate": 1988,
+        "Director": "Tim Burton",
+        "Genre": [
+            "Comedy",
+            "Fantasy"
+        ],
+        "certificate": "15",
+        "runTime": "1h 32min"
+    },
+    {
+        "filmTitle": "Big Hero 6",
+        "releaseDate": 2014,
+        "Director": "Don Hall, Chris Williams",
+        "Genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "certificate": "PG",
+        "runTime": "1h 42min"
+    },
+    {
+        "filmTitle": "Black Hawk Down",
+        "releaseDate": 2001,
+        "Director": "Ridley Scott",
+        "Genre": [
+            "Drama",
+            "History",
+            "War"
+        ],
+        "certificate": "15",
+        "runTime": "2h 24min"
+    },
+    {
+        "filmTitle": "Black Panther",
+        "releaseDate": 2018,
+        "Director": "Ryan Coogler",
+        "Genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "certificate": "12A",
+        "runTime": "2h 14min"
+    }
+]
+}
