@@ -1,131 +1,150 @@
 {
 "films": [
     {
-        "posterImg": "./images/Star-Wars-Phantom-Menace-Poster",
+        "posterImg": "./images/Star-Wars-Phantom-Menace-Poster.jpg",
         "filmTitle": "Star Wars: Episode I - The Phantom Menace",
         "releaseDate": 1999,
-        "Director": "George Lucas",
-        "Genre": [
+        "director": "George Lucas",
+        "genre": [
             "Action",
             "Adventure",
             "Fantasy"
         ],
         "certificate": "U",
-        "runTime": "2h 16min"
+        "runTime": "2h 16min",
+        "franchise": "Star Wars"
     },
     {
+        "posterImg": "./images/star-wars-episode-ii-attack-of-the-clones.jpg",
         "filmTitle": "Star Wars: Episode II - Attack of the Clones",
         "releaseDate": 2005,
-        "Director": "George Lucas",
-        "Genre": [
+        "director": "George Lucas",
+        "genre": [
             "Action",
             "Adventure",
             "Fantasy"
         ],
         "certificate": "PG",
-        "runTime": "2h 22min"
+        "runTime": "2h 22min",
+        "franchise": "Star Wars"
     },        
     {
+        "posterImg": "./images/Star-Wars-Phantom-Menace-Poster.jpg",
         "filmTitle": "Star Wars: Episode III - Revenge of the Sith",
         "releaseDate": 2005,
-        "Director": "George Lucas",
-        "Genre": [
+        "director": "George Lucas",
+        "genre": [
             "Action",
             "Adventure",
             "Fantasy"
         ],
         "certificate": "12A",
-        "runTime": "2h 20min"
+        "runTime": "2h 20min",
+        "franchise": "Star Wars"
     },
     {
+        "posterImg": "./images/Star-Wars-Phantom-Menace-Poster.jpg",
         "filmTitle": "Rogue One: A Star Wars Story",
         "releaseDate": 2016,
-        "Director": "Gareth Edwards",
-        "Genre": [
+        "director": "Gareth Edwards",
+        "genre": [
             "Action",
             "Adventure",
             "Fantasy"
         ],
         "certificate": "12A",
-        "runTime": "2h 13min"
+        "runTime": "2h 13min",
+        "franchise": "Star Wars"
     },
     {
+        "posterImg": "./images/star-wars-a-new-hope.jpg",
         "filmTitle": "Star Wars: Episode IV - A New Hope",
         "releaseDate": 1977,
-        "Director": "George Lucas",
-        "Genre": [
+        "director": "George Lucas",
+        "genre": [
             "Action",
             "Adventure",
             "Fantasy"
         ],
         "certificate": "U",
-        "runTime": "2h 1min"
+        "runTime": "2h 1min",
+        "franchise": "Star Wars"
     },
     {
+        "posterImg": "./images/star-wars-the-empire-strikes-back.jpg",
         "filmTitle": "Star Wars: Episode V - The Empire Strikes Back",
         "releaseDate": 1980,
-        "Director": "Irvin Kershner",
-        "Genre": [
+        "director": "Irvin Kershner",
+        "genre": [
             "Action",
             "Adventure",
             "Fantasy"
         ],
         "certificate": "U",
-        "runTime": "2h 4min"
+        "runTime": "2h 4min",
+        "franchise": "Star Wars"
     },
     {
+        "posterImg": "./images/star-wars-return-of-the-jedi.jpg",
         "filmTitle": "Star Wars: Episode VI - Return of the Jedi",
         "releaseDate": 1983,
-        "Director": "Richard Marquand",
-        "Genre": [
+        "director": "Richard Marquand",
+        "genre": [
             "Action",
             "Adventure",
             "Fantasy"
         ],
         "certificate": "U",
-        "runTime": "2h 11min"
+        "runTime": "2h 11min",
+        "franchise": "Star Wars"
     },
     {
+        "posterImg": "./images/Star-Wars-forceawakens.jpg",
         "filmTitle": "Star Wars: Episode VII - The Force Awakens",
         "releaseDate": 2015,
-        "Director": "J.J. Abrams",
-        "Genre": [
+        "director": "J.J. Abrams",
+        "genre": [
             "Action",
             "Adventure",
             "Fantasy"
         ],
         "certificate": "12A",
-        "runTime": "2h 18min"
+        "runTime": "2h 18min",
+        "franchise": "Star Wars"
     },
     {
+        "posterImg": "./images/star-wars-the-last-jedi.jpg",
         "filmTitle": "Star Wars: Episode VIII - The Last Jedi",
         "releaseDate": 2007,
-        "Director": "Rian Johnson",
-        "Genre": [
+        "director": "Rian Johnson",
+        "genre": [
             "Action",
             "Adventure",
             "Fantasy"
         ],
         "certificate": "12A",
-        "runTime": "2h 32min"
+        "runTime": "2h 32min",
+        "franchise": "Star Wars"
     },
     {
+        "posterImg": "./images/star-wars-the-rise-of-skywalker.jpg",
         "filmTitle": "Star Wars: The Rise of Skywalker",
         "releaseDate": 2019,
-        "Director": "J.J. Abrams",
-        "Genre": [
+        "director": "J.J. Abrams",
+        "genre": [
             "Action",
             "Adventure",
             "Fantasy"
         ],
         "certificate": "12A",
-        "runTime": "2h 22min"
+        "runTime": "2h 22min",
+        "franchise": "Star Wars"
     },
     {
         "filmTitle": "2001: A Space Odyssey",
         "releaseDate": 1968,
-        "Director": "Stanley Kubrick",
-        "Genre": [
+        "director": "Stanley Kubrick",
+        "genre": [
             "Adventure",
             "Sci-Fi"
         ],
@@ -135,8 +154,8 @@
     {
         "filmTitle": "Akira",
         "releaseDate": 1988,
-        "Director": "Katsuhiro Ôtomo",
-        "Genre": [
+        "director": "Katsuhiro Ôtomo",
+        "genre": [
             "Animation",
             "Drama",
             "Sci-Fi"
@@ -147,8 +166,8 @@
     {
         "filmTitle": "Alice in Wonderland",
         "releaseDate": 2010,
-        "Director": "Tim Burton",
-        "Genre": [
+        "director": "Tim Burton",
+        "genre": [
             "Adventure",
             "Family",
             "Fantasy"
@@ -159,8 +178,8 @@
     {
         "filmTitle": "Alien",
         "releaseDate": 1979,
-        "Director": "Ridley Scott",
-        "Genre": [
+        "director": "Ridley Scott",
+        "genre": [
             "Horror",
             "Sci-Fi"
         ],
@@ -170,8 +189,8 @@
     {
         "filmTitle": "Alien Covenant",
         "releaseDate": 2017,
-        "Director": "Ridley Scott",
-        "Genre": [
+        "director": "Ridley Scott",
+        "genre": [
             "Horror",
             "Sci-Fi",
             "Thirller"
@@ -182,8 +201,8 @@
     {
         "filmTitle": "Alien: Resurrection",
         "releaseDate": 1997,
-        "Director": "Jean-Pierre Jeunet",
-        "Genre": [
+        "director": "Jean-Pierre Jeunet",
+        "genre": [
             "Horror",
             "Sci-Fi",
             "Action"
@@ -194,8 +213,8 @@
     {
         "filmTitle": "Aliens",
         "releaseDate": 1986,
-        "Director": "James Cameron",
-        "Genre": [
+        "director": "James Cameron",
+        "genre": [
             "Action",
             "Adventure",
             "Sci-Fi"
@@ -206,8 +225,8 @@
     {
         "filmTitle": "Alien³",
         "releaseDate": 1992,
-        "Director": "David Fincher",
-        "Genre": [
+        "director": "David Fincher",
+        "genre": [
             "Action",
             "Horror",
             "Sci-Fi"
@@ -218,8 +237,8 @@
     {
         "filmTitle": "The Amazing Spider-Man",
         "releaseDate": 2012,
-        "Director": "Marc Webb",
-        "Genre": [
+        "director": "Marc Webb",
+        "genre": [
             "Action",
             "Adventure",
             "Sci-Fi"
@@ -230,8 +249,8 @@
     {
         "filmTitle": "The Amazing Spider-Man",
         "releaseDate": 2012,
-        "Director": "Marc Webb",
-        "Genre": [
+        "director": "Marc Webb",
+        "genre": [
             "Action",
             "Adventure",
             "Sci-Fi"
@@ -242,8 +261,8 @@
     {
         "filmTitle": "The Amazing Spider-Man 2",
         "releaseDate": 2014,
-        "Director": "Marc Webb",
-        "Genre": [
+        "director": "Marc Webb",
+        "genre": [
             "Action",
             "Adventure",
             "Sci-Fi"
@@ -254,8 +273,8 @@
     {
         "filmTitle": "American Psycho",
         "releaseDate": 2000,
-        "Director": "Mary Harron",
-        "Genre": [
+        "director": "Mary Harron",
+        "genre": [
             "Comedy",
             "Crime",
             "Drama"
@@ -266,8 +285,8 @@
     {
         "filmTitle": "American Psycho",
         "releaseDate": 2000,
-        "Director": "Mary Harron",
-        "Genre": [
+        "director": "Mary Harron",
+        "genre": [
             "Comedy",
             "Crime",
             "Drama"
@@ -278,8 +297,8 @@
     {
         "filmTitle": "American Sniper",
         "releaseDate": 2014,
-        "Director": "Clint Eastwood",
-        "Genre": [
+        "director": "Clint Eastwood",
+        "genre": [
             "Action",
             "Biography",
             "Drama"
@@ -290,32 +309,35 @@
     {
         "filmTitle": "Ant Man",
         "releaseDate": 2015,
-        "Director": "Peyton Reed",
-        "Genre": [
+        "director": "Peyton Reed",
+        "genre": [
             "Action",
             "Adventure",
             "Comedy"
         ],
         "certificate": "12A",
-        "runTime": "1h 57min"
+        "runTime": "1h 57min",
+        "franchise": "Marvel"
     },
     {
         "filmTitle": "Ant Man and the Wasp",
         "releaseDate": 2018,
-        "Director": "Peyton Reed",
-        "Genre": [
+        "director": "Peyton Reed",
+        "genre": [
             "Action",
             "Adventure",
             "Comedy"
         ],
         "certificate": "12A",
-        "runTime": "1h 58min"
+        "runTime": "1h 58min",
+        "franchise": "Marvel"
     },
     {
+        "posterImg": "./images/Apocalyspe-Now-Poster.jpg",
         "filmTitle": "Apocalypse Now",
         "releaseDate": 1979,
-        "Director": "Francis Ford Coppola",
-        "Genre": [
+        "director": "Francis Ford Coppola",
+        "genre": [
             "Drama",
             "Mystery",
             "War"
@@ -326,8 +348,8 @@
     {
         "filmTitle": "Arrival",
         "releaseDate": 2016,
-        "Director": "Denis Villeneuve",
-        "Genre": [
+        "director": "Denis Villeneuve",
+        "genre": [
             "Drama",
             "Mystery",
             "Sci-Fi"
@@ -338,8 +360,8 @@
     {
         "filmTitle": "Assassin's Creed",
         "releaseDate": 2016,
-        "Director": "Justin Kurzel",
-        "Genre": [
+        "director": "Justin Kurzel",
+        "genre": [
             "Action",
             "Adventure",
             "Sci-Fi"
@@ -350,8 +372,8 @@
     {
         "filmTitle": "Atomic Blonde",
         "releaseDate": 2017,
-        "Director": "David Leitch",
-        "Genre": [
+        "director": "David Leitch",
+        "genre": [
             "Action",
             "Thriller"
         ],
@@ -361,8 +383,8 @@
     {
         "filmTitle": "Austin Powers: International Man of Mystery",
         "releaseDate": 1997,
-        "Director": "Jay Roach",
-        "Genre": [
+        "director": "Jay Roach",
+        "genre": [
             "Adventure",
             "Comedy"
         ],
@@ -372,8 +394,8 @@
     {
         "filmTitle": "Austin Powers: The Spy Who Shagged Me",
         "releaseDate": 1999,
-        "Director": "Jay Roach",
-        "Genre": [
+        "director": "Jay Roach",
+        "genre": [
             "Adventure",
             "Action",
             "Comedy"
@@ -384,8 +406,8 @@
     {
         "filmTitle": "Avatar",
         "releaseDate": 2009,
-        "Director": "James Cameron",
-        "Genre": [
+        "director": "James Cameron",
+        "genre": [
             "Adventure",
             "Action",
             "Fantasy"
@@ -396,8 +418,8 @@
     {
         "filmTitle": "Avengers Assemble",
         "releaseDate": 2012,
-        "Director": "Joss Whedon",
-        "Genre": [
+        "director": "Joss Whedon",
+        "genre": [
             "Adventure",
             "Action",
             "Sci-Fi"
@@ -408,8 +430,8 @@
     {
         "filmTitle": "Avengers: Age of Ultron",
         "releaseDate": 2015,
-        "Director": "Joss Whedon",
-        "Genre": [
+        "director": "Joss Whedon",
+        "genre": [
             "Adventure",
             "Action",
             "Sci-Fi"
@@ -420,8 +442,8 @@
     {
         "filmTitle": "Avengers: Infinity War",
         "releaseDate": 2018,
-        "Director": "Anthony Russo, Joe Russo",
-        "Genre": [
+        "director": "Anthony Russo, Joe Russo",
+        "genre": [
             "Adventure",
             "Action",
             "Sci-Fi"
@@ -432,8 +454,8 @@
     {
         "filmTitle": "Avengers: Endgame",
         "releaseDate": 2019,
-        "Director": "Anthony Russo, Joe Russo",
-        "Genre": [
+        "director": "Anthony Russo, Joe Russo",
+        "genre": [
             "Adventure",
             "Action",
             "Drama"
@@ -444,8 +466,8 @@
     {
         "filmTitle": "AVP: Alien vs. Predator",
         "releaseDate": 2004,
-        "Director": "Paul W.S. Anderson",
-        "Genre": [
+        "director": "Paul W.S. Anderson",
+        "genre": [
             "Adventure",
             "Action",
             "Horror"
@@ -456,8 +478,8 @@
     {
         "filmTitle": "Back to the Future",
         "releaseDate": 1985,
-        "Director": "Robert Zemeckis",
-        "Genre": [
+        "director": "Robert Zemeckis",
+        "genre": [
             "Adventure",
             "Comedy",
             "Sci-Fi"
@@ -468,8 +490,8 @@
     {
         "filmTitle": "Back to the Future Part II",
         "releaseDate": 1989,
-        "Director": "Robert Zemeckis",
-        "Genre": [
+        "director": "Robert Zemeckis",
+        "genre": [
             "Adventure",
             "Comedy",
             "Sci-Fi"
@@ -480,8 +502,8 @@
     {
         "filmTitle": "Back to the Future Part III",
         "releaseDate": 1990,
-        "Director": "Robert Zemeckis",
-        "Genre": [
+        "director": "Robert Zemeckis",
+        "genre": [
             "Adventure",
             "Comedy",
             "Sci-Fi"
@@ -492,8 +514,8 @@
     {
         "filmTitle": "Bad Boys",
         "releaseDate": 1995,
-        "Director": "Michael Bay",
-        "Genre": [
+        "director": "Michael Bay",
+        "genre": [
             "Adventure",
             "Comedy",
             "Sci-Fi"
@@ -504,8 +526,8 @@
     {
         "filmTitle": "Bad Boys II",
         "releaseDate": 2003,
-        "Director": "Michael Bay",
-        "Genre": [
+        "director": "Michael Bay",
+        "genre": [
             "Adventure",
             "Comedy",
             "Sci-Fi"
@@ -516,53 +538,45 @@
     {
         "filmTitle": "Batman",
         "releaseDate": 1989,
-        "Director": "Tim Burton",
-        "Genre": [
+        "director": "Tim Burton",
+        "genre": [
             "Adventure",
             "Action"
         ],
         "certificate": "12",
-        "runTime": "2h 6min"
+        "runTime": "2h 6min",
+        "franchise": "DC Comics"
     },
     {
         "filmTitle": "Batman Begins",
         "releaseDate": 2005,
-        "Director": "Christopher Nolan",
-        "Genre": [
+        "director": "Christopher Nolan",
+        "genre": [
             "Adventure",
             "Action"
         ],
         "certificate": "12A",
-        "runTime": "2h 20min"
+        "runTime": "2h 20min",
+        "franchise": "DC Comics"
     },
     {
         "filmTitle": "Batman Returns",
         "releaseDate": 1992,
-        "Director": "Tim Burton",
-        "Genre": [
+        "director": "Tim Burton",
+        "genre": [
             "Crime",
             "Action",
             "Fantasy"
         ],
         "certificate": "15",
-        "runTime": "2h 6min"
+        "runTime": "2h 6min",
+        "franchise": "DC Comics"
     },
     {
         "filmTitle": "Beetlejuice",
         "releaseDate": 1988,
-        "Director": "Tim Burton",
-        "Genre": [
-            "Comedy",
-            "Fantasy"
-        ],
-        "certificate": "15",
-        "runTime": "1h 32min"
-    },
-    {
-        "filmTitle": "Beetlejuice",
-        "releaseDate": 1988,
-        "Director": "Tim Burton",
-        "Genre": [
+        "director": "Tim Burton",
+        "genre": [
             "Comedy",
             "Fantasy"
         ],
@@ -572,8 +586,8 @@
     {
         "filmTitle": "Big Hero 6",
         "releaseDate": 2014,
-        "Director": "Don Hall, Chris Williams",
-        "Genre": [
+        "director": "Don Hall, Chris Williams",
+        "genre": [
             "Animation",
             "Action",
             "Adventure"
@@ -584,8 +598,8 @@
     {
         "filmTitle": "Black Hawk Down",
         "releaseDate": 2001,
-        "Director": "Ridley Scott",
-        "Genre": [
+        "director": "Ridley Scott",
+        "genre": [
             "Drama",
             "History",
             "War"
@@ -596,14 +610,244 @@
     {
         "filmTitle": "Black Panther",
         "releaseDate": 2018,
-        "Director": "Ryan Coogler",
-        "Genre": [
+        "director": "Ryan Coogler",
+        "genre": [
             "Action",
             "Adventure",
             "Sci-Fi"
         ],
         "certificate": "12A",
-        "runTime": "2h 14min"
+        "runTime": "2h 14min",
+        "franchise": "Marvel"
+    },
+    {
+        "filmTitle": "Blade",
+        "releaseDate": 1998,
+        "director": "Stephen Norrington",
+        "genre": [
+            "Action",
+            "Horror",
+            "Sci-Fi"
+        ],
+        "certificate": "18",
+        "runTime": "2h"
+    },
+    {
+        "filmTitle": "Blade II",
+        "releaseDate": 2002,
+        "director": "Guillermo del Toro",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "certificate": "18",
+        "runTime": "1h 57min"
+    },
+    {
+        "filmTitle": "Blade Trinity",
+        "releaseDate": 2004,
+        "director": "David S. Goyer",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "certificate": "15",
+        "runTime": "1h 53min"
+    },
+    {
+        "filmTitle": "Blade Runner",
+        "releaseDate": 1982,
+        "director": "Ridley Scott",
+        "genre": [
+            "Action",
+            "Thriller",
+            "Sci-Fi"
+        ],
+        "certificate": "15",
+        "runTime": "1h 57min"
+    },
+    {
+        "filmTitle": "Blade Runner 2049",
+        "releaseDate": 2017,
+        "director": "Denis Villeneuve",
+        "genre": [
+            "Action",
+            "Drama",
+            "Mystery"
+        ],
+        "certificate": "15",
+        "runTime": "2h 44min"
+    },
+    {
+        "filmTitle": "Boogie Nights",
+        "releaseDate": 1997,
+        "director": "Paul Thomas Anderson",
+        "genre": [
+            "Drama"
+        ],
+        "certificate": "18",
+        "runTime": "2h 35min"
+    },
+    {
+        "filmTitle": "The Bourne Identity",
+        "releaseDate": 2002,
+        "director": "Doug Liman",
+        "genre": [
+            "Action",
+            "Mystery",
+            "Thriller"
+        ],
+        "certificate": "12A",
+        "runTime": "1h 59min"
+    },
+    {
+        "filmTitle": "The Bourne Supremacy",
+        "releaseDate": 2004,
+        "director": "Paul Greengrass",
+        "genre": [
+            "Action",
+            "Mystery",
+            "Thriller"
+        ],
+        "certificate": "12A",
+        "runTime": "1h 48min"
+    },
+    {
+        "filmTitle": "The Bourne Ultimatum",
+        "releaseDate": 2007,
+        "director": "Paul Greengrass",
+        "genre": [
+            "Action",
+            "Mystery",
+            "Thriller"
+        ],
+        "certificate": "12A",
+        "runTime": "1h 55min"
+    },
+    {
+        "filmTitle": "Brave",
+        "releaseDate": 2012,
+        "director": "Mark Andrews, Brenda Chapman, Steve Purcell",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "certificate": "PG",
+        "runTime": "1h 33min",
+        "franchise": "Pixar"
+    },
+    {
+        "filmTitle": "Buried",
+        "releaseDate": 2010,
+        "director": "Rodrigo Cortés",
+        "genre": [
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "certificate": "15",
+        "runTime": "1h 35min"
+    },
+    {
+        "filmTitle": "Captain America: Civil War",
+        "releaseDate": 2016,
+        "director": "Anthony Russo, Joe Russo",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "certificate": "12A",
+        "runTime": "2h 27min",
+        "franchise": "Marvel"
+    },
+    {
+        "filmTitle": "Captain America: The First Avenger",
+        "releaseDate": 2011,
+        "director": "Joe Johnston",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "certificate": "12A",
+        "runTime": "2h 4min",
+        "franchise": "Marvel"
+    },
+    {
+        "filmTitle": "Captain America: The Winter Soldier",
+        "releaseDate": 2014,
+        "director": "Anthony Russo, Joe Russo",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "certificate": "12A",
+        "runTime": "2h 16min",
+        "franchise": "Marvel"
+    },
+    {
+        "filmTitle": "Casino Royale",
+        "releaseDate": 2006,
+        "director": "Martin Campbell",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Thriller"
+        ],
+        "certificate": "12A",
+        "runTime": "2h 24min"
+    },
+    {
+        "filmTitle": "Chappie",
+        "releaseDate": 2015,
+        "director": "Neill Blomkamp",
+        "genre": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "certificate": "15",
+        "runTime": "2h"
+    },
+    {
+        "filmTitle": "Cloverfield",
+        "releaseDate": 2008,
+        "director": "Matt Reeves",
+        "genre": [
+            "Action",
+            "Horror",
+            "Sci-Fi"
+        ],
+        "certificate": "15",
+        "runTime": "1h 25min"
+    },
+    {
+        "filmTitle": "Corpse Bride",
+        "releaseDate": 2005,
+        "director": "Tim Burton, Mike Johnson",
+        "genre": [
+            "Animation",
+            "Drama",
+            "Family"
+        ],
+        "certificate": "PG",
+        "runTime": "1h 17min"
+    },
+    {
+        "filmTitle": "Creed",
+        "releaseDate": 2015,
+        "director": "Ryan Coogler",
+        "genre": [
+            "Drama",
+            "Sport"
+        ],
+        "certificate": "12A",
+        "runTime": "2h 13min"
     }
 ]
 }
