@@ -29,7 +29,7 @@
         "franchise": "Star Wars"
     },        
     {
-        "posterImg": "./images/Star-Wars-Phantom-Menace-Poster.jpg",
+        "posterImg": "./images/Star-Wars-Revenge-of-the-Sith.jpg",
         "filmTitle": "Star Wars: Episode III - Revenge of the Sith",
         "releaseDate": 2005,
         "director": "George Lucas",
@@ -43,7 +43,7 @@
         "franchise": "Star Wars"
     },
     {
-        "posterImg": "./images/Star-Wars-Phantom-Menace-Poster.jpg",
+        "posterImg": "./images/Star-Wars-Rogue-One.jpg",
         "filmTitle": "Rogue One: A Star Wars Story",
         "releaseDate": 2016,
         "director": "Gareth Edwards",
@@ -141,6 +141,7 @@
         "franchise": "Star Wars"
     },
     {
+        "posterImg": "./images/2001-Space-Odyssey.jpg",
         "filmTitle": "2001: A Space Odyssey",
         "releaseDate": 1968,
         "director": "Stanley Kubrick",
@@ -152,6 +153,7 @@
         "runTime": "2h 29min"
     },
     {
+        "posterImg": "./images/Akira.jpg",
         "filmTitle": "Akira",
         "releaseDate": 1988,
         "director": "Katsuhiro Ôtomo",
@@ -164,6 +166,7 @@
         "runTime": "2h 4min"
     },
     {
+        "posterImg": "./images/Alice-in-Wonderland.jpg",
         "filmTitle": "Alice in Wonderland",
         "releaseDate": 2010,
         "director": "Tim Burton",
@@ -176,6 +179,7 @@
         "runTime": "1h 48min"
     },
     {
+        "posterImg": "./images/Alien.jpg",
         "filmTitle": "Alien",
         "releaseDate": 1979,
         "director": "Ridley Scott",
@@ -187,6 +191,7 @@
         "runTime": "1h 57min"
     },
     {
+        "posterImg": "./images/Alien-Covenant.jpg",
         "filmTitle": "Alien Covenant",
         "releaseDate": 2017,
         "director": "Ridley Scott",
@@ -199,6 +204,7 @@
         "runTime": "2h 2min"
     },
     {
+        "posterImg": "./images/Alien-Resurrection.jpg",
         "filmTitle": "Alien: Resurrection",
         "releaseDate": 1997,
         "director": "Jean-Pierre Jeunet",
@@ -211,6 +217,7 @@
         "runTime": "1h 49min"
     },
     {
+        "posterImg": "./images/Aliens.jpg",
         "filmTitle": "Aliens",
         "releaseDate": 1986,
         "director": "James Cameron",
@@ -223,6 +230,7 @@
         "runTime": "2h 17min"
     },
     {
+        "posterImg": "./images/Alien3.jpg",
         "filmTitle": "Alien³",
         "releaseDate": 1992,
         "director": "David Fincher",
@@ -235,6 +243,7 @@
         "runTime": "1h 54min"
     },
     {
+        "posterImg": "./images/Amazing-Spiderman.jpg",
         "filmTitle": "The Amazing Spider-Man",
         "releaseDate": 2012,
         "director": "Marc Webb",
@@ -247,18 +256,7 @@
         "runTime": "2h 16min"
     },
     {
-        "filmTitle": "The Amazing Spider-Man",
-        "releaseDate": 2012,
-        "director": "Marc Webb",
-        "genre": [
-            "Action",
-            "Adventure",
-            "Sci-Fi"
-        ],
-        "certificate": "12A",
-        "runTime": "2h 16min"
-    },
-    {
+        "posterImg": "./images/Amazing-Spiderman-2.jpg",
         "filmTitle": "The Amazing Spider-Man 2",
         "releaseDate": 2014,
         "director": "Marc Webb",
@@ -283,6 +281,7 @@
         "runTime": "1h 41min"
     },
     {
+        "posterImg": "./images/American-Psycho.jpg",
         "filmTitle": "American Psycho",
         "releaseDate": 2000,
         "director": "Mary Harron",
@@ -295,6 +294,7 @@
         "runTime": "1h 41min"
     },
     {
+        "posterImg": "./images/American-Sniper.jpg",
         "filmTitle": "American Sniper",
         "releaseDate": 2014,
         "director": "Clint Eastwood",
@@ -307,6 +307,7 @@
         "runTime": "2h 13min"
     },
     {
+        "posterImg": "./images/Ant-Man.jpg",
         "filmTitle": "Ant Man",
         "releaseDate": 2015,
         "director": "Peyton Reed",
@@ -320,6 +321,7 @@
         "franchise": "Marvel"
     },
     {
+        "posterImg": "./images/Ant-Man-and-the-Wasp.jpg",
         "filmTitle": "Ant Man and the Wasp",
         "releaseDate": 2018,
         "director": "Peyton Reed",
@@ -333,7 +335,7 @@
         "franchise": "Marvel"
     },
     {
-        "posterImg": "./images/Apocalyspe-Now-Poster.jpg",
+        "posterImg": "./images/Apocalypse-Now-Poster.jpg",
         "filmTitle": "Apocalypse Now",
         "releaseDate": 1979,
         "director": "Francis Ford Coppola",
@@ -346,6 +348,7 @@
         "runTime": "2h 27min"
     },
     {
+        "posterImg": "./images/Arrival.jpg",
         "filmTitle": "Arrival",
         "releaseDate": 2016,
         "director": "Denis Villeneuve",
@@ -358,6 +361,7 @@
         "runTime": "1h 56min"
     },
     {
+        "posterImg": "./images/Assassins-Creed.jpg",
         "filmTitle": "Assassin's Creed",
         "releaseDate": 2016,
         "director": "Justin Kurzel",
@@ -370,6 +374,7 @@
         "runTime": "1h 55min"
     },
     {
+        "posterImg": "./images/Atomic-Blonde.jpg",
         "filmTitle": "Atomic Blonde",
         "releaseDate": 2017,
         "director": "David Leitch",
@@ -381,6 +386,7 @@
         "runTime": "1h 55min"
     },
     {
+        "posterImg": "./images/Austin-Powers.jpg",
         "filmTitle": "Austin Powers: International Man of Mystery",
         "releaseDate": 1997,
         "director": "Jay Roach",
@@ -392,6 +398,7 @@
         "runTime": "1h 34min"
     },
     {
+        "posterImg": "./images/Austin-Powers-2.jpg",
         "filmTitle": "Austin Powers: The Spy Who Shagged Me",
         "releaseDate": 1999,
         "director": "Jay Roach",
@@ -404,6 +411,7 @@
         "runTime": "1h 35min"
     },
     {
+        "posterImg": "./images/Avatar.jpg",
         "filmTitle": "Avatar",
         "releaseDate": 2009,
         "director": "James Cameron",
@@ -416,6 +424,7 @@
         "runTime": "2h 42min"
     },
     {
+        "posterImg": "./images/Avengers-Assemble.jpg",
         "filmTitle": "Avengers Assemble",
         "releaseDate": 2012,
         "director": "Joss Whedon",
@@ -428,6 +437,7 @@
         "runTime": "2h 23min"
     },
     {
+        "posterImg": "./images/Avengers-Age-of-Ultron.jpg",
         "filmTitle": "Avengers: Age of Ultron",
         "releaseDate": 2015,
         "director": "Joss Whedon",
@@ -440,6 +450,7 @@
         "runTime": "2h 21min"
     },
     {
+        "posterImg": "./images/Avengers-Infinity-Wars.jpg",
         "filmTitle": "Avengers: Infinity War",
         "releaseDate": 2018,
         "director": "Anthony Russo, Joe Russo",
@@ -452,6 +463,7 @@
         "runTime": "2h 29min"
     },
     {
+        "posterImg": "./images/Avengers-Endgame.jpg",
         "filmTitle": "Avengers: Endgame",
         "releaseDate": 2019,
         "director": "Anthony Russo, Joe Russo",
@@ -464,6 +476,7 @@
         "runTime": "3h 1min"
     },
     {
+        "posterImg": "./images/AvP.jpg",
         "filmTitle": "AVP: Alien vs. Predator",
         "releaseDate": 2004,
         "director": "Paul W.S. Anderson",
@@ -476,6 +489,7 @@
         "runTime": "1h 41min"
     },
     {
+        "posterImg": "./images/Back-to-the-Future.jpg",
         "filmTitle": "Back to the Future",
         "releaseDate": 1985,
         "director": "Robert Zemeckis",
@@ -488,6 +502,7 @@
         "runTime": "1h 56min"
     },
     {
+        "posterImg": "./images/Back-to-the-Future-Part-II.jpg",
         "filmTitle": "Back to the Future Part II",
         "releaseDate": 1989,
         "director": "Robert Zemeckis",
@@ -500,6 +515,7 @@
         "runTime": "1h 48min"
     },
     {
+        "posterImg": "./images/Back-to-the-Future-Part-III.jpg",
         "filmTitle": "Back to the Future Part III",
         "releaseDate": 1990,
         "director": "Robert Zemeckis",
@@ -512,6 +528,7 @@
         "runTime": "1h 58min"
     },
     {
+        "posterImg": "./images/Bad-Boys.jpg",
         "filmTitle": "Bad Boys",
         "releaseDate": 1995,
         "director": "Michael Bay",
@@ -524,6 +541,7 @@
         "runTime": "1h 59min"
     },
     {
+        "posterImg": "./images/Bad-Boys-II.jpg",
         "filmTitle": "Bad Boys II",
         "releaseDate": 2003,
         "director": "Michael Bay",
@@ -536,6 +554,7 @@
         "runTime": "2h 27min"
     },
     {
+        "posterImg": "./images/Batman.jpg",
         "filmTitle": "Batman",
         "releaseDate": 1989,
         "director": "Tim Burton",
@@ -548,6 +567,7 @@
         "franchise": "DC Comics"
     },
     {
+        "posterImg": "./images/Batman-Begins.jpg",
         "filmTitle": "Batman Begins",
         "releaseDate": 2005,
         "director": "Christopher Nolan",
@@ -560,6 +580,7 @@
         "franchise": "DC Comics"
     },
     {
+        "posterImg": "./images/Batman-Returns.jpg",
         "filmTitle": "Batman Returns",
         "releaseDate": 1992,
         "director": "Tim Burton",
@@ -573,6 +594,7 @@
         "franchise": "DC Comics"
     },
     {
+        "posterImg": "./images/Beetlejuice.jpg",
         "filmTitle": "Beetlejuice",
         "releaseDate": 1988,
         "director": "Tim Burton",
@@ -584,6 +606,7 @@
         "runTime": "1h 32min"
     },
     {
+        "posterImg": "./images/Big-Hero-6.jpg",
         "filmTitle": "Big Hero 6",
         "releaseDate": 2014,
         "director": "Don Hall, Chris Williams",
@@ -596,6 +619,7 @@
         "runTime": "1h 42min"
     },
     {
+        "posterImg": "./images/Black-Hawk-Down.jpg",
         "filmTitle": "Black Hawk Down",
         "releaseDate": 2001,
         "director": "Ridley Scott",
@@ -608,6 +632,7 @@
         "runTime": "2h 24min"
     },
     {
+        "posterImg": "./images/Black-Panther.jpg",
         "filmTitle": "Black Panther",
         "releaseDate": 2018,
         "director": "Ryan Coogler",
@@ -621,6 +646,7 @@
         "franchise": "Marvel"
     },
     {
+        "posterImg": "./images/Blade.jpg",
         "filmTitle": "Blade",
         "releaseDate": 1998,
         "director": "Stephen Norrington",
@@ -633,6 +659,7 @@
         "runTime": "2h"
     },
     {
+        "posterImg": "./images/Blade-II.jpg",
         "filmTitle": "Blade II",
         "releaseDate": 2002,
         "director": "Guillermo del Toro",
@@ -645,6 +672,7 @@
         "runTime": "1h 57min"
     },
     {
+        "posterImg": "./images/Blade-Trinity.jpg",
         "filmTitle": "Blade Trinity",
         "releaseDate": 2004,
         "director": "David S. Goyer",
@@ -657,6 +685,7 @@
         "runTime": "1h 53min"
     },
     {
+        "posterImg": "./images/Blade-Runner.jpg",
         "filmTitle": "Blade Runner",
         "releaseDate": 1982,
         "director": "Ridley Scott",
@@ -669,6 +698,7 @@
         "runTime": "1h 57min"
     },
     {
+        "posterImg": "./images/Blade-Runner-2049.jpg",
         "filmTitle": "Blade Runner 2049",
         "releaseDate": 2017,
         "director": "Denis Villeneuve",
@@ -681,6 +711,7 @@
         "runTime": "2h 44min"
     },
     {
+        "posterImg": "./images/Boogie-Nights.jpg",
         "filmTitle": "Boogie Nights",
         "releaseDate": 1997,
         "director": "Paul Thomas Anderson",
@@ -691,6 +722,7 @@
         "runTime": "2h 35min"
     },
     {
+        "posterImg": "./images/Bourne-Identity.jpg",
         "filmTitle": "The Bourne Identity",
         "releaseDate": 2002,
         "director": "Doug Liman",
@@ -703,6 +735,7 @@
         "runTime": "1h 59min"
     },
     {
+        "posterImg": "./images/Bourne-Supremacy.jpg",
         "filmTitle": "The Bourne Supremacy",
         "releaseDate": 2004,
         "director": "Paul Greengrass",
@@ -715,6 +748,7 @@
         "runTime": "1h 48min"
     },
     {
+        "posterImg": "./images/Bourne-Ultimatum.jpg",
         "filmTitle": "The Bourne Ultimatum",
         "releaseDate": 2007,
         "director": "Paul Greengrass",
@@ -727,6 +761,7 @@
         "runTime": "1h 55min"
     },
     {
+        "posterImg": "./images/Brave.jpg",
         "filmTitle": "Brave",
         "releaseDate": 2012,
         "director": "Mark Andrews, Brenda Chapman, Steve Purcell",
@@ -740,6 +775,7 @@
         "franchise": "Pixar"
     },
     {
+        "posterImg": "./images/Buried.jpg",
         "filmTitle": "Buried",
         "releaseDate": 2010,
         "director": "Rodrigo Cortés",
@@ -752,6 +788,7 @@
         "runTime": "1h 35min"
     },
     {
+        "posterImg": "./images/Captain-America-Civil-War.jpg",
         "filmTitle": "Captain America: Civil War",
         "releaseDate": 2016,
         "director": "Anthony Russo, Joe Russo",
@@ -765,6 +802,7 @@
         "franchise": "Marvel"
     },
     {
+        "posterImg": "./images/Captain-America-First-Avenger.jpg",
         "filmTitle": "Captain America: The First Avenger",
         "releaseDate": 2011,
         "director": "Joe Johnston",
@@ -778,6 +816,7 @@
         "franchise": "Marvel"
     },
     {
+        "posterImg": "./images/Captain-America-Winter-Soldier.jpg",
         "filmTitle": "Captain America: The Winter Soldier",
         "releaseDate": 2014,
         "director": "Anthony Russo, Joe Russo",
@@ -791,6 +830,7 @@
         "franchise": "Marvel"
     },
     {
+        "posterImg": "./images/007-Casino-Royale.jpg",
         "filmTitle": "Casino Royale",
         "releaseDate": 2006,
         "director": "Martin Campbell",
@@ -803,6 +843,7 @@
         "runTime": "2h 24min"
     },
     {
+        "posterImg": "./images/Chappie.jpg",
         "filmTitle": "Chappie",
         "releaseDate": 2015,
         "director": "Neill Blomkamp",
@@ -815,6 +856,7 @@
         "runTime": "2h"
     },
     {
+        "posterImg": "./images/Cloverfield.jpg",
         "filmTitle": "Cloverfield",
         "releaseDate": 2008,
         "director": "Matt Reeves",
@@ -827,6 +869,7 @@
         "runTime": "1h 25min"
     },
     {
+        "posterImg": "./images/Corpse-Bride.jpg",
         "filmTitle": "Corpse Bride",
         "releaseDate": 2005,
         "director": "Tim Burton, Mike Johnson",
@@ -839,6 +882,7 @@
         "runTime": "1h 17min"
     },
     {
+        "posterImg": "./images/Creed.jpg",
         "filmTitle": "Creed",
         "releaseDate": 2015,
         "director": "Ryan Coogler",
@@ -848,6 +892,113 @@
         ],
         "certificate": "12A",
         "runTime": "2h 13min"
+    },
+    {
+        "posterImg": "./images/Crimson-Peak.jpg",
+        "filmTitle": "Crimson Peak",
+        "releaseDate": 2015,
+        "director": "Guillermo del Toro",
+        "genre": [
+            "Drama",
+            "Fantasy",
+            "Horror"
+        ],
+        "certificate": "15",
+        "runTime": "1h 59min"
+    },
+    {
+        "posterImg": "./images/The-Crow.jpg",
+        "filmTitle": "The Crow",
+        "releaseDate": 1994,
+        "director": "Alex Proyas",
+        "genre": [
+            "Action",
+            "Drama",
+            "Fantasy"
+        ],
+        "certificate": "18",
+        "runTime": "1h 42min"
+    },
+    {
+        "posterImg": "./images/The-Dark-Knight.jpg",
+        "filmTitle": "The Dark Knight",
+        "releaseDate": 2008,
+        "director": "Christopher Nolan",
+        "genre": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "certificate": "12A",
+        "runTime": "2h 32min",
+        "franchise": "DC Comics"
+    },
+    {
+        "posterImg": "./images/The-Dark-Knight-Rises.jpg",
+        "filmTitle": "The Dark Knight Rises",
+        "releaseDate": 2012,
+        "director": "Christopher Nolan",
+        "genre": [
+            "Action",
+            "Adventure"
+        ],
+        "certificate": "12A",
+        "runTime": "2h 44min",
+        "franchise": "DC Comics"
+    },
+    {
+        "posterImg": "./images/Dawn-of-the-Planet-of-the-Apes.jpg",
+        "filmTitle": "Dawn of the Planet of the Apes",
+        "releaseDate": 2014,
+        "director": "Matt Reeves",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "certificate": "12A",
+        "runTime": "2h 10min"
+    },
+    {
+        "posterImg": "./images/Deadpool.jpg",
+        "filmTitle": "Deadpool",
+        "releaseDate": 2016,
+        "director": "Tim Miller",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "certificate": "15",
+        "runTime": "1h 48min",
+        "franchise": "Marvel"
+    },
+    {
+        "posterImg": "./images/Deadpool-2.jpg",
+        "filmTitle": "Deadpool 2",
+        "releaseDate": 2018,
+        "director": "David Leitch",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "certificate": "15",
+        "runTime": "1h 59min",
+        "franchise": "Marvel"
+    },
+    {
+        "posterImg": "./images/Desperado.jpg",
+        "filmTitle": "Desperado",
+        "releaseDate": 1995,
+        "director": "Robert Rodriguez",
+        "genre": [
+            "Action",
+            "Crime",
+            "Thriller"
+        ],
+        "certificate": "18",
+        "runTime": "1h 44min"
     }
 ]
 }
